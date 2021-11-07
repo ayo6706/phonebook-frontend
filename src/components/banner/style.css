@@ -1,0 +1,10 @@
+.banner{
+
+    background-image: url('../../assest/jonny-mckenna-4igCpD-Lnfg-unsplash.jpg');
+    height: 400px;
+    width: 100%;
+    background-repeat: no-repeat;
+
+    background-size: cover;
+
+}

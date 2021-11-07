@@ -1,0 +1,15 @@
+nav {
+    background-color: #ffffff;
+}
+
+.nav-item {
+    padding: 10px;
+}
+
+.nav-link {
+    color: #707070;
+}
+
+.nav-clear-margin {
+    margin-top: 2cm;
+}
